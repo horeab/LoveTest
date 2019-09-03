@@ -6,7 +6,7 @@ import libgdx.implementations.skelgame.SkelGameDependencyManager;
 
 public enum GameIdEnum implements GameId {
 
-    skelgame(SkelGameDependencyManager.class),;
+    lovetest(SkelGameDependencyManager.class),;
 
     private Class<? extends SubGameDependencyManager> dependencyManagerClass;
 

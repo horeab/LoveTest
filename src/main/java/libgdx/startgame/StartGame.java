@@ -1,6 +1,7 @@
 package libgdx.startgame;
 
 import libgdx.constants.GameIdEnum;
+import libgdx.constants.Language;
 import libgdx.implementations.skelgame.SkelGame;
 import libgdx.utils.startgame.test.DefaultAppInfoService;
 import libgdx.utils.startgame.test.DefaultBillingService;
@@ -15,7 +16,7 @@ public class StartGame {
                 new DefaultAppInfoService() {
                     @Override
                     public String getGameIdPrefix() {
-                        return GameIdEnum.skelgame.name();
+                        return GameIdEnum.lovetest.name();
                     }
 
                     @Override
@@ -30,7 +31,7 @@ public class StartGame {
 
                     @Override
                     public String getLanguage() {
-                        return "ro";
+                        return Language.pl.name();
                     }
                 });
         libgdx.utils.startgame.StartGame.main(game, args);

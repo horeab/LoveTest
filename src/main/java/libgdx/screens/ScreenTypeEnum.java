@@ -9,7 +9,7 @@ public enum ScreenTypeEnum implements ScreenType {
 
     MAIN_MENU_SCREEN {
         public AbstractScreen getScreen(Object... params) {
-            return new MainMenuScreen(params == null ? null : (Zodiac) params[0]);
+            return new MainMenuScreen();
         }
     },
 
