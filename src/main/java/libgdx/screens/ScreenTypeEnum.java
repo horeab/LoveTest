@@ -1,6 +1,5 @@
 package libgdx.screens;
 
-import libgdx.constants.Zodiac;
 import libgdx.screen.AbstractScreen;
 import libgdx.screen.ScreenType;
 import libgdx.screens.mainmenu.MainMenuScreen;

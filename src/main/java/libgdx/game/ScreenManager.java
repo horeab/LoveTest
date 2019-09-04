@@ -1,6 +1,5 @@
 package libgdx.game;
 
-import libgdx.constants.Zodiac;
 import libgdx.screen.AbstractScreenManager;
 import libgdx.screens.ScreenTypeEnum;
 
@@ -13,7 +12,4 @@ public class ScreenManager extends AbstractScreenManager {
 //        showCampaignScreen();
     }
 
-    public void showPartnerMainScreen(Zodiac zodiac) {
-        showScreen(ScreenTypeEnum.MAIN_MENU_SCREEN, zodiac);
-    }
 }

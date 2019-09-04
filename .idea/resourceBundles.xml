@@ -21,13 +21,10 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_es.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_fi.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_fr.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hi.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hr.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hu.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_id.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_it.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ja.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ko.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ms.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_nl.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_no.properties" />
@@ -37,10 +34,8 @@
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ru.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_sk.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_sv.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_th.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_tr.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_uk.properties" />
     <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_vi.properties" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_zh.properties" />
   </component>
 </project>
